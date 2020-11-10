@@ -13,7 +13,7 @@ Step 2: Open browser
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/LandingPage_zh-tw.png "Landing Page (Chinese Traditional)")
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/LandingPage_fr.png "Landing Page (French)")
 
-Adjust browser languages
+To adjust browser languages
 [chrome://settings/?search=languages](chrome://settings/?search=languages)
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/Languages.png "Chrome Languages")
 
@@ -26,3 +26,14 @@ Adjust browser languages
 
 ## Architecture
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/Architecture.png "Architecture")
+
+
+### CRUD Testing
+Django REST framework tool [http://localhost:8000/users/](http://localhost:8000/users/) 
+
+### Task Status
+- [x] USER STORY 1: Upload Users
+- [x] USER STORY 2: Employee Dashboard Feature
+- [x] USER STORY 3: CRUD Feature
+- [x] USER STORY 4: Better UX When Uploading Large CSV Files
+- [x] USER STORY 5: UI Localization
