@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-10 00:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: compose/settings.py:138
+msgid "English"
+msgstr ""
+
+#: compose/settings.py:139
+msgid "French"
+msgstr ""
+
+#: compose/settings.py:140
+msgid "Simplified Chinese"
+msgstr ""
+
+#: compose/settings.py:141
+msgid "Traditional Chinese"
+msgstr ""
+
+#: employees/models.py:22
+msgid "ID"
+msgstr ""
+
+#: employees/models.py:23 templates/index.html:100 templates/index.html:183
+msgid "Login"
+msgstr "登录"
+
+#: employees/models.py:24 templates/index.html:99 templates/index.html:179
+msgid "Name"
+msgstr "名字"
+
+#: employees/models.py:25 templates/index.html:101 templates/index.html:187
+msgid "Salary"
+msgstr "薪水"
+
+#: templates/index.html:10 templates/index.html:26 templates/index.html:176
+msgid "Employee"
+msgstr "雇员"
+
+#: templates/index.html:10 templates/index.html:26
+msgid "Management"
+msgstr "管理"
+
+#: templates/index.html:30
+msgid "Long user name"
+msgstr "长用户名"
+
+#: templates/index.html:39 templates/index.html:42 templates/index.html:45
+#: templates/index.html:48 templates/index.html:51
+msgid "Function"
+msgstr "功能"
+
+#: templates/index.html:69
+msgid "Minimum salary"
+msgstr "最低薪水"
+
+#: templates/index.html:69 templates/index.html:80
+msgid "Enter amount"
+msgstr "輸入金額"
+
+#: templates/index.html:80
+msgid "Maximum salary"
+msgstr "最大薪水"
+
+#: templates/index.html:86
+msgid "Search"
+msgstr "搜索"
+
+#: templates/index.html:94
+msgid "Employees"
+msgstr "雇员"
+
+#: templates/index.html:98 templates/index.html:176
+msgid "Id"
+msgstr ""
+
+#: templates/index.html:102
+msgid "Action"
+msgstr "作业"
+
+#: templates/index.html:135
+msgid "No Data"
+msgstr "没有数据"
+
+#: templates/index.html:138
+msgid "Upload Users"
+msgstr "上传用户"
+
+#: templates/index.html:146
+msgid "Choose file"
+msgstr "选择文件"
+
+#: templates/index.html:149
+msgid "Upload"
+msgstr "上载"
+
+#: templates/index.html:155
+msgid "Cancel"
+msgstr "取消"
+
+#: templates/index.html:173
+msgid "Edit"
+msgstr "编辑"
+
+#: templates/index.html:195
+msgid "Save"
+msgstr "保存"
