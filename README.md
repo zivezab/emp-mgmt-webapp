@@ -15,7 +15,7 @@ Step 2: Open browser
 - Postgresl
 - Bootstrap (jQuery)
 
-![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/TechStack.png "Tech Stack")
+![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/TechStack.jpg "Tech Stack")
 
 ## Architecture
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/Architecture.png "Architecture")
