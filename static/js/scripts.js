@@ -203,8 +203,8 @@
                     <div class="row mt-3 mb-3">
                     <div class="col-sm-1"><i class="fas fa-image"></i></div>
                     <div class="col-sm-2">${user.id}</div>
-                    <div class="col-sm-2">${user.login}</div>
                     <div class="col-sm-2">${user.name}</div>
+                    <div class="col-sm-2">${user.login}</div>
                     <div class="col-sm-2">${user.salary}</div>
                     <div class="col-sm-3">
                         <a data-toggle="modal" data-target="#editUserModal" data-entry="${user._id}"
