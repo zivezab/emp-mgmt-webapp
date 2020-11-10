@@ -9,3 +9,11 @@ Step 2: Open browser
 
 [http://localhost:8000/](https://docs.docker.com/)
 ![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/LandingPage.png "Landing Page")
+
+## Tech Stack
+- Django (Python)
+- Postgresl
+- Bootstrap (jQuery)
+
+![alt text](https://raw.githubusercontent.com/zivezab/emp-mgmt-webapp/main/screenshot/TechStack.jpg "Tech Stack")
+
